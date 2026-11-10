@@ -42,3 +42,4 @@ VALUES
     'Masyarakat perlu memahami penggunaan informasi digital.',
     'Literasi digital membantu masyarakat menggunakan teknologi secara bijak dan menghindari penyebaran informasi palsu.'
 );
+-- Konfigurasi database website cekfakta
