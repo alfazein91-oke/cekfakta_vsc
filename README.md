@@ -1,2 +1,1 @@
-# cekfakta_vsc
-website ini digunakan untuk memilah beita fakta dan hoaks
+# Website Edukasi dan Pemeriksaan Hoaks
